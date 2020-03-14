@@ -1,0 +1,42 @@
+{
+  "menu_home": {
+    "en": "Home",
+    "vi": "Trang Chủ"
+  },
+  "menu_about": {
+    "en": "About",
+    "vi": "Giới Thiệu"
+  },
+  "menu_contact": {
+    "en": "Contact",
+    "vi": "Liên Hệ"
+  },
+  "menu_room": {
+    "en": "Room",
+    "vi": "Phòng"
+  },
+  "menu_service": {
+    "en": "Service",
+    "vi": "Dịch Vụ"
+  },
+  "menu_check_booking": {
+    "en": "Check Booking",
+    "vi": "Kiểm Tra Đặt Phòng"
+  },
+  "menu_lang": {
+    "en": "Tiếng Việt",
+    "vi": "English"
+  },
+  "menu_book_now": {
+    "en": "BOOKING NOW",
+    "vi": "ĐẶT PHÒNG"
+  },
+  "header": {
+    "en": "HOTEL MANAGER APPLICATION",
+    "vi": "PHẦN MỀM QUẢN LÝ KHÁCH SẠN"
+  },
+  "footer": {
+    "en": "This is my footer of my site",
+    "vi": "Đây là cái footer của trang"
+  }
+}
